@@ -1,5 +1,5 @@
 [![Download](https://img.shields.io/github/v/release/JeuneTaoist/FronteraForge?label=Download&color=7c5cfc&style=for-the-badge)](https://github.com/JeuneTaoist/FronteraForge/releases/latest)
-
+[![Downloads](https://img.shields.io/github/downloads/JeuneTaoist/FronteraForge/total?label=Downloads&color=7c5cfc&style=for-the-badge)](https://github.com/JeuneTaoist/FronteraForge/releases)
 
 
 # FronteraForge
